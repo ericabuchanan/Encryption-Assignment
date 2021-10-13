@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1619399877 source:c:\users\erica\documents\buchanan\encryption assignment\encryptionassignment.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
+1619487027 source:c:\users\erica\documents\github\encryption-assignment-erica-buchanan\encryptionassignment.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
+1619487027 source:c:\users\erica\documents\github\encryption-assignment-erica-buchanan\buchanan_encryptionassignment\encryptionassignment.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
